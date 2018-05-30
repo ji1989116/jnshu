@@ -70,7 +70,7 @@ img{
 .button{
     background-color: #68cdd5;
     height: 80px;
-    top: 60px;
+    top: 30px;
     color: #eff0f4;
     font-size: 1.2em;
     text-indent:0;
@@ -80,5 +80,5 @@ img{
     right: 4%;
     color: #68cdd5;
     text-decoration: none;
-    top: 170px;
+    top: 140px;
 }
